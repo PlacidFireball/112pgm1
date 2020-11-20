@@ -1,0 +1,33 @@
+Running with 17 ips...
+Class A has 5 networks.
+Largest A network is 106 with 3 hosts.
+Class B has 5 networks.
+Largest B network is 137.249 with 2 hosts.
+Class C has 2 networks.
+Largest C network is 215.116.26 with 2 hosts.
+ 
+Running with 2000 ips...
+Class A has 128 networks.
+Largest A network is 38 with 16 hosts.
+Class B has 484 networks.
+Largest B network is 129.74 with 2 hosts.
+Class C has 256 networks.
+All C networks have only 1 host.
+ 
+Running with 5000 ips...
+Class A has 128 networks.
+Largest A network is 95 with 35 hosts.
+Class B has 1234 networks.
+Largest B network is 144.40 with 3 hosts.
+Class C has 640 networks.
+All C networks have only 1 host.
+ 
+Running with 8000 ips...
+Class A has 128 networks.
+Largest A network is 106 with 50 hosts.
+Class B has 1961 networks.
+Largest B network is 141.175 with 4 hosts.
+Class C has 987 networks.
+Largest C network is 216.24.49 with 2 hosts.
+ 
+Finished
